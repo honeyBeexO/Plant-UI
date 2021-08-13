@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+import 'widgets/custom_menu_item.dart';
+import 'widgets/plant_overview.dart';
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({
     Key? key,

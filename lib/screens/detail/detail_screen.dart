@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:plant_app/models/plant.dart';
+
+import 'widgets/plant_card_info.dart';
 
 class PlantDetailScreen extends StatelessWidget {
   const PlantDetailScreen({
